@@ -1,0 +1,7 @@
+https://www.geeksforgeeks.org/spring-boot-caching-with-redis/
+https://www.geeksforgeeks.org/installation-and-starting-the-servers-of-redis-stack-using-docker/
+
+https://dev.mysql.com/downloads/file/?id=534098
+
+https://www.baeldung.com/spring-boot-redis-cache
+
